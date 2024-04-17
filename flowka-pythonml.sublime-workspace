@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_k",
+				"_kmns_max"
+			],
+			[
+				"l",
+				"lrcoef"
+			],
+			[
+				"dt",
+				"dtypes"
+			],
+			[
+				"tra",
+				"_train_split"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"false",
+				"False"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"GET",
+				"_GET"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"se",
+				"setSize"
+			],
+			[
+				"training",
+				"training_data"
+			],
+			[
+				"n_",
+				"n_training"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"lea",
+				"learn_name"
+			],
+			[
+				"noise",
+				"noisearray"
+			],
+			[
+				"si",
+				"sigma_di"
+			],
+			[
+				"b",
+				"backpropagations"
+			],
+			[
+				"max",
+				"max_iter"
+			],
+			[
+				"in",
+				"inicoeff"
+			],
+			[
+				"la",
+				"lastupdate"
+			],
+			[
+				"ou",
+				"output_deltas"
+			],
+			[
+				"nb",
+				"nb_layers"
+			],
+			[
+				"tr",
+				"transfert"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"stat",
+				"stat_weights"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"learn",
+				"learnname"
+			],
+			[
+				"ra",
+				"rarchive"
+			],
+			[
+				"x",
+				"X"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "flowkapd.py",
+			"settings":
+			{
+				"buffer_size": 17882,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "flowkamd.py",
+			"settings":
+			{
+				"buffer_size": 6189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "flowkamo.py",
+			"settings":
+			{
+				"buffer_size": 16909,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/PythonProjects/flowka"
+	],
+	"file_history":
+	[
+		"/home/david/PythonProjects/flowka/flowkamd.py",
+		"/home/david/PythonProjects/flowka/flowkapd.py",
+		"/home/david/PythonProjects/flowka/flowkamo.py",
+		"/home/david/PythonProjects/flowka/.ipynb_checkpoints/flowka_method-checkpoint.ipynb",
+		"/home/david/PythonProjects/flowka/.ipynb_checkpoints/my-method-checkpoint.ipynb",
+		"/home/david/PythonProjects/flowka/flowka_metadata.csv",
+		"/home/david/PythonProjects/flowka/flowka_method.ipynb",
+		"/home/david/PythonProjects/flowka/flowka_work.ipynb",
+		"/Users/David/project/PythonProjects/pythonml/flowkafunc.py",
+		"/Users/David/Downloads/iris.csv",
+		"/Users/David/project/PythonProjects/pythonml/flowka_metadata.csv",
+		"/Users/David/Dropbox/Perso/Nouveau document texte.txt",
+		"/Users/David/Dropbox/Perso/job/motivation.txt",
+		"/Users/David/Dropbox/Perso/job/pole emploi/PE-connect",
+		"/Users/David/project/PythonProjects/pythonml/flowkamo.py",
+		"/Users/David/project/PythonProjects/pythonml/flowkapd.py",
+		"/Users/David/project/PythonProjects/pythonml/flowkacol.py",
+		"/Users/David/project/PythonProjects/pythonml/metadata_columns.csv",
+		"/Users/David/project/PythonProjects/pythonml/new.csv",
+		"/Users/David/project/PythonProjects/pythonml/columnkeys.csv",
+		"/Users/David/project/PythonProjects/pythonml/newkeys.csv",
+		"/Users/David/Downloads/testmypd.py",
+		"/Users/David/Downloads/datatypes.csv",
+		"/Users/David/project/PythonProjects/pythonml/my-method.ipynb",
+		"/Users/David/project/PythonProjects/pythonml/titanic_train.csv",
+		"/Users/David/project/PythonProjects/pythonml/titanic_test.csv",
+		"/Users/David/project/PythonProjects/mediasolution/la_Reine_Margot-fr.srt",
+		"/Users/David/project/PythonProjects/mediasolution/la_guerre_est_declaree-fr.srt",
+		"/Users/David/project/PythonProjects/mediasolution/Avatar-fr.srt",
+		"/Users/David/project/PythonProjects/mediasolution/les_quatre_cents_coups-fr.srt",
+		"/Users/David/Downloads/Declaration-of-War.srt.srt",
+		"/Users/David/Downloads/Queen+Margot+1994+d9+Minisd-Tlf_track5_fre.srt.srt",
+		"/Users/David/Downloads/Reine+Margot%2C+La+%281994%29.french.srt.srt",
+		"/Users/David/Downloads/Les+quatre+cents+coups+%281959%29.french.srt.srt",
+		"/Users/David/Downloads/The+400+Blows+1959+720p+BluRay+DD1.0+x264-CtrlHD.fre.srt.srt",
+		"/Users/David/Downloads/La%2BReine%2BMargot (1).srt",
+		"/Users/David/Downloads/La%2BReine%2BMargot.srt",
+		"/Users/David/Downloads/OpenCV_3_License_Plate_Recognition_Python-master/Main.py",
+		"/Users/David/Downloads/OpenCV_3_License_Plate_Recognition_Python-master/DetectPlates.py",
+		"/Users/David/Downloads/OpenCV_3_License_Plate_Recognition_Python-master/DetectChars.py",
+		"/Users/David/Downloads/OpenCV_3_License_Plate_Recognition_Python-master/classifications.txt",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/index.html",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/styletest.css",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/fllogin.html",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/fllogin.css",
+		"/Users/David/project/JavaProjects/eclipse/flowka/.settings/org.eclipse.wst.common.component",
+		"/Users/David/project/JavaProjects/eclipse/subtitlor/.settings/org.eclipse.wst.common.component",
+		"/usr/local/apache-tomcat-8.5.23/webapps/host-manager/WEB-INF/web.xml",
+		"/Users/David/project/JavaProjects/eclipse/ilgigrad_user/.settings/org.eclipse.wst.common.component",
+		"/Users/David/Dropbox/Captures d'écran/login/Politique de confidentialité de Flowka",
+		"/Users/David/Dropbox/Captures d'écran/login/Conditions de service de Flowka",
+		"/Users/David/Dropbox/Perso/ubudik/web/css/front-end.css",
+		"/Users/David/Dropbox/Perso/ubudik/web/css/normalize.css",
+		"/Users/David/Dropbox/Perso/ubudik/web/css/styles.css",
+		"/Users/David/Documents/ubudik_statik/ubudik1/gwdpagedeck_style.css",
+		"/Users/David/Documents/ubudik_statik/ubudik1/gwdpage_style.css",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/login.html",
+		"/usr/local/apache-tomcat-8.5.23/webapps/test/index.html.en",
+		"/Users/David/Dropbox/Perso/html/test.html",
+		"/Users/David/Dropbox/Perso/html/styletest.css",
+		"/Users/David/Dropbox/Perso/html/zozor.css",
+		"/Users/David/Dropbox/Perso/html/zozor.html",
+		"/Users/David/Dropbox/Perso/html/cvArthur.html",
+		"/Users/David/Dropbox/Perso/html/style.css",
+		"/Users/David/Documents/agenda.ics",
+		"/Users/David/Downloads/La guerra e dichiarata-ita.srt",
+		"/Users/David/Downloads/JAVA_PROJECTS 2/.metadata/version.ini",
+		"/Users/David/Downloads/password_presentation.srt",
+		"/Users/David/Downloads/export (24).gpx",
+		"/Users/David/Downloads/La guerre est declaree-fr.srt",
+		"/Users/David/Downloads/Meurtre%2BDans%2BUn%2BJardin%2BAnglais (1).srt",
+		"/Users/David/Downloads/Marie.Antoinette.(2006).Z2.aXXo.FR.srt",
+		"/Users/David/Downloads/Marie.Antoinette.(2006).DEU.srt",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-newuser.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-connect.php",
+		"/Users/David/Downloads/Subtitlor/src/com/subtitlor/utilities/SubtitlesHandler.java",
+		"/Users/David/Downloads/WebappClassLoaderBase.java",
+		"/Users/David/Dropbox/Perso/flowka/data/utmb.csv",
+		"/Users/David/Desktop/teamviewer mique",
+		"/Users/David/project/PythonProjects/Neural/data/80MB-correlation2.csv",
+		"/Users/David/project/PythonProjects/Neural/data/velib-correlation.csv",
+		"/Users/David/project/PythonProjects/Neural/data/80MB-correlation.csv",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/.htaccess",
+		"/Users/David/project/ubbc/xx-newuser.php",
+		"/Users/David/project/ubbc/ubbc-savexxuser.php",
+		"/Users/David/project/ubbc/xxx-newuser.php",
+		"/Users/David/project/ubbc/ubbc-user.php",
+		"/Users/David/project/ubbc/ubbc-suplap.php",
+		"/Users/David/Desktop/trkpt_view.xml",
+		"/Users/David/Downloads/UTMBMC.gpx",
+		"/Users/David/Downloads/TMBHC.gpx",
+		"/Users/David/Downloads/UTMBMC.sql",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-results.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-cool.php",
+		"/Users/David/project/ubbc/ubbc-cool.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-live.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-user.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-newlap.php",
+		"/Users/David/project/ubbc/ubbc-savenewuser2.php",
+		"/Users/David/project/ubbc/ubbc-live.html",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-savenewlap.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-savenewlapuser.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-suplap.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-savenewuser.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-stoplap.php",
+		"/Users/David/project/ubbc/ubbc-liveplus.php",
+		"/Users/David/project/ubbc/ubbc-savenewlapuser.php",
+		"/Users/David/project/ubbc/ubbc-savenewlap.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-newlap2.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-entrylist.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-stats.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-entry.php",
+		"/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-newlap.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-functions.php",
+		"/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-savenewuser.php",
+		"/Users/David/Dropbox/Perso/ubbc/ubbc-savenewuser.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/ubbc-style.css",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/style.css",
+		"/Users/David/Dropbox/Perso/ubbc/newuser.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/inscrits.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/inscrits2.php",
+		"/Users/David/Dropbox/Perso/ubbc/inscrits2.php",
+		"/Users/David/Dropbox/Perso/ubbc/ubbc-connect.php",
+		"/Users/David/Dropbox/Perso/ubbc/inscrits.php",
+		"/Users/David/Dropbox/Perso/ubbc/test.php",
+		"/private/var/folders/dv/9d6l7_0x1lq817dylvc85_qh0000gn/T/fz3temp-2/wp-config.php",
+		"/Users/David/Dropbox/Perso/ubbc/ubbc_connect.php",
+		"/Users/David/project/PythonProjects/Neural/data/80MB.csv"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 183.0,
+		"where_history":
+		[
+			"<current file>,<open files>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"predicts",
+			"target",
+			"metadata",
+			"self._predicts",
+			"self._df",
+			"target",
+			"istransform",
+			"maxdistcat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"results",
+			"self.predicts",
+			"self.df",
+			"predicts"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "flowkapd.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12653,
+								12653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5085.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "flowkamd.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3752,
+								4358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "flowkamo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "flowka-pythonml.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
